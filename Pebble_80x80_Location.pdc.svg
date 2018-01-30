@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid" viewBox="-40 -40 160 160" width="240" height="240">
+	<path stroke-linecap="round" stroke-linejoin="round" fill="rgba(255,255,255,1)" stroke="rgba(0,0,0,1)" stroke-width="4" d="M39,65L57,77L75,65L60,35L51,41L39,33L27,41L18,35L3,65L21,77Z"/>
+	<path stroke-linecap="round" stroke-linejoin="round" fill="rgba(0,0,0,0)" stroke="rgba(0,0,0,1)" stroke-width="3" d="M28,41L21,76"/>
+	<path stroke-linecap="round" stroke-linejoin="round" fill="rgba(0,0,0,0)" stroke="rgba(0,0,0,1)" stroke-width="3" d="M51,41L58,76"/>
+	<path stroke-linecap="round" stroke-linejoin="round" fill="rgba(0,0,0,0)" stroke="rgba(0,0,0,1)" stroke-width="3" d="M46,52L46,1"/>
+	<path stroke-linecap="round" stroke-linejoin="round" fill="rgba(0,0,0,0)" stroke="rgba(0,0,0,1)" stroke-width="3" d="M39,36L39,68"/>
+	<path stroke-linecap="round" stroke-linejoin="round" fill="rgba(255,255,255,1)" stroke="rgba(0,0,0,1)" stroke-width="3" d="M70,18L61,21L53,17L46,20L46,4L53,1L61,5L70,2L64,12Z"/>
+</svg>

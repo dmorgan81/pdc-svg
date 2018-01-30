@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid" viewBox="-40 -40 160 160" width="240" height="240">
+	<path stroke-linecap="round" stroke-linejoin="round" fill="rgba(255,255,255,1)" stroke="rgba(0,0,0,1)" stroke-width="4" d="M9,43L9,23L22,9L43,9L57,23L57,43L43,57L23,57Z"/>
+	<path stroke-linecap="round" stroke-linejoin="round" fill="rgba(0,0,0,0)" stroke="rgba(0,0,0,1)" stroke-width="4" d="M33,17L33,33L44,33"/>
+	<path stroke-linecap="round" stroke-linejoin="round" fill="rgba(255,255,255,1)" stroke="rgba(0,0,0,1)" stroke-width="4" d="M41,43L69,43L69,71L41,71Z"/>
+	<path stroke-linecap="round" stroke-linejoin="round" fill="rgba(0,0,0,0)" stroke="rgba(0,0,0,1)" stroke-width="3" d="M49,57L55,63L63,51"/>
+</svg>

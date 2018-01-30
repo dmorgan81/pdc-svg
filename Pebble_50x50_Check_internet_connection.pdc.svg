@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid" viewBox="-25 -25 100 100" width="150" height="150">
+	<path stroke-linecap="round" stroke-linejoin="round" fill="rgba(0,0,0,0)" stroke="rgba(0,0,0,1)" stroke-width="3" d="M36,13L43,21"/>
+	<path stroke-linecap="round" stroke-linejoin="round" fill="rgba(0,0,0,0)" stroke="rgba(0,0,0,1)" stroke-width="3" d="M44,9L35,21"/>
+	<path stroke-linecap="round" stroke-linejoin="round" fill="rgba(0,0,0,0)" stroke="rgba(0,0,0,1)" stroke-width="3" d="M33,41L33,37"/>
+	<path stroke-linecap="round" stroke-linejoin="round" fill="rgba(0,0,0,0)" stroke="rgba(0,0,0,1)" stroke-width="3" d="M38,41L38,33"/>
+	<path stroke-linecap="round" stroke-linejoin="round" fill="rgba(0,0,0,0)" stroke="rgba(0,0,0,1)" stroke-width="3" d="M43,41L43,29"/>
+	<path stroke-linecap="round" stroke-linejoin="round" fill="rgba(0,0,0,0)" stroke="rgba(0,0,0,1)" stroke-width="3" d="M48,41L48,25"/>
+	<path stroke-linecap="round" stroke-linejoin="round" fill="rgba(255,255,255,1)" stroke="rgba(0,0,0,1)" stroke-width="3" d="M24,45L24,9L1,9L1,45L24,45Z"/>
+	<path stroke-linecap="round" stroke-linejoin="round" fill="rgba(0,0,0,0)" stroke="rgba(0,0,0,1)" stroke-width="3" d="M6,8L6,3"/>
+	<path stroke-linecap="round" stroke-linejoin="round" fill="rgba(0,0,0,0)" stroke="rgba(0,0,0,1)" stroke-width="2" d="M19,21L5,21L5,13L19,13L19,21Z"/>
+</svg>
